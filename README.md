@@ -1,50 +1,31 @@
-## Hello World 👋
+## Hi 👋 I'm Prithvi Raj Kumar
 
-I'm **Prithvi Raj Kumar**  
-Self-taught, curiosity-driven backend developer focused on building scalable, real-world systems.
+Self-taught, curiosity-driven **backend developer** building scalable, real-world systems.
 
-- 🚀 Building high-performance backend services and distributed systems
-- 🧠 Interested in backend engineering, infra, and system design
-- 🐧 Linux enthusiast
-- 📍 Hyderabad, India
+- 🚀 Backend & distributed systems
+- 🧠 Infra & system design
+- 🐧 Linux 
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 
-#### 💻 Programming Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+**Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="22"/>
 
-#### ⚙️ Backend, Frameworks & Messaging
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+**Backend & Messaging**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="22"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" height="22"/>
 
-#### 🗄 Databases, Cache & Queues
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Memcached](https://img.shields.io/badge/Memcached-2E6E9E?style=flat&logo=databricks&logoColor=white)
+**Data & Cache**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="22"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/memcached.svg" height="22"/>
 
-#### ☁️ Cloud, DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+**Cloud & Tools**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="22"/>
 
 ---
 
----
-
-### 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/prithvirajkumar2021/) •  
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/prithvirajkumar2021/) ·
 [GitHub](https://github.com/Rajprithvi2021)
 
----
-
-⭐ _Always learning, building, and improving._
+⭐ _Always learning. Always building._
