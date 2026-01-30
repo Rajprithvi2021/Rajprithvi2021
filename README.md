@@ -1,8 +1,8 @@
 ## Hello World 👋
 
-I'm **Prithvi Raj Kumar** — a self-taught, curiosity-driven **backend developer** building scalable, real-world systems.
+I'm **Prithvi Raj Kumar** a self-taught, curiosity-driven **backend developer** building scalable, real-world systems.
 
-🚀 High-performance backend & distributed systems · 🧠 Infra & system design · 🐧 Linux
+High-performance backend & distributed systems · Infra & system design · 🐧 Linux
 
 ---
 
